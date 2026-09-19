@@ -15,7 +15,7 @@ square_root = math.sqrt(area)
 
 #Rounded up/ Rounded down solution
 rounded_down = math.floor(area)
-rounded_up = math.floor(area)
+rounded_up = math.ceil(area)
 
 #Final outputs
 print(f"The area of the garden is {area:.2f} square meters")
